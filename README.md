@@ -24,7 +24,7 @@ To get started with the Fake Image Detection project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/syed-muqtasid/fake-image-detection.git
+    git clone https://github.com/syed-muqtasid-ali/fake-image-detection.git
     ```
 
 2. Navigate to the project directory:
